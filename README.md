@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hy0g0
 - 👀 I’m interested in fullStack developement
 - 🌱 I’m currently learning at Epitech and VueJs
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hy0g0&label=Profile%20views&color=0e75b6&style=flat" alt="hy0g0" /> </p>
 
