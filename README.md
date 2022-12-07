@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hy0g0
 - 👀 I’m interested in fullStack developement and DevOps
-- 🌱 I’m currently learning at Epitech and VueJs
-
+- 🌱 I’m currently learning at Epitech 
+- 🌱 Working on Flutter
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hy0g0&label=Profile%20views&color=0e75b6&style=flat" alt="hy0g0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hy0g0" alt="hy0g0" /></a> </p>
