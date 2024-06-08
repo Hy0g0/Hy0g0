@@ -22,6 +22,3 @@
 [![](https://visitcount.itsvg.in/api?id=Hy0g0&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Hy0g0/Hy0g0/blob/main/matrix.gif?raw=true');]{x0000}$}
